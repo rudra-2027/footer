@@ -27,7 +27,7 @@ export default function Footer() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
         >
-          <h2 className="text-xl font-semibold text-[#CBD99B] mb-4">MarketingPro</h2>
+          <h2 className="text-xl font-semibold text-[#018790] mb-4">MarketingPro</h2>
 
           <p className="text-gray-400 leading-6 mb-4">
             Transforming businesses through innovative digital marketing strategies.
@@ -66,7 +66,7 @@ export default function Footer() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.1 }}
         >
-          <h3 className="text-lg font-semibold text-[#CBD99B] mb-4">Services</h3>
+          <h3 className="text-lg font-semibold text-[#018790] mb-4">Services</h3>
 
           <ul className="space-y-3">
 
@@ -119,7 +119,7 @@ export default function Footer() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.2 }}
         >
-          <h3 className="text-lg font-semibold text-[#CBD99B] mb-4">Company</h3>
+          <h3 className="text-lg font-semibold text-[#018790] mb-4">Company</h3>
 
           <ul className="space-y-3">
 
@@ -172,7 +172,7 @@ export default function Footer() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.3 }}
         >
-          <h3 className="text-lg font-semibold text-[#CBD99B] mb-4">Stay Updated</h3>
+          <h3 className="text-lg font-semibold text-[#018790] mb-4">Stay Updated</h3>
 
           <p className="text-gray-400 mb-4">
             Subscribe to our newsletter for the latest marketing insights.
